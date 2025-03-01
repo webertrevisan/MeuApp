@@ -4,10 +4,10 @@
     {
         static void Main(string[] args)
         {
-            //String = lista de Chars
-            string primeiraLetra = "C";
-            string texto = "Meu texto";
-            var documento = "1234567.99";
+            //Var = Subistitui o nome de um tipo será do tipo do primeiro valor atribuido
+            var idade = 25;
+            int idade = 25;
+
 
         }
     }
