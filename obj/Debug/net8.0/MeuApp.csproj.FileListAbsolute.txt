@@ -12,3 +12,4 @@ C:\Dev\MeuApp\obj\Debug\net8.0\refint\MeuApp.dll
 C:\Dev\MeuApp\obj\Debug\net8.0\MeuApp.pdb
 C:\Dev\MeuApp\obj\Debug\net8.0\MeuApp.genruntimeconfig.cache
 C:\Dev\MeuApp\obj\Debug\net8.0\ref\MeuApp.dll
+C:\dev\MeuApp\obj\Debug\net8.0\MeuApp.sourcelink.json
