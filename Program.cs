@@ -4,10 +4,10 @@
     {
         static void Main(string[] args)
         {
-            //Numeros Reais
-            float salario = 2.500f;
-            double salarioSemestral = 22.000;
-            decimal salarioAnual = 25.000m;
+            //Boolean = verdadeiro ou falso
+            bool usuarioJaCadastrado = false;
+            bool pagamentoRecebido = true;
+            var usuarioExpirado = false;
 
         }
     }
