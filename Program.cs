@@ -4,9 +4,10 @@
     {
         static void Main(string[] args)
         {
-            //Char formato Unicode
-            char primeiraLetra ='C';
-            var segundaLetra = 'D';
+            //String = lista de Chars
+            string primeiraLetra = "C";
+            string texto = "Meu texto";
+            var documento = "1234567.99";
 
         }
     }
